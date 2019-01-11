@@ -31,7 +31,8 @@ width:100%;
 	border: 1px solid black;
 	margin-top: 55%;
 	font-family:Arial rounded;
-	font-size:20px;
+	height:100%;
+	font-size:18px;
 
 }
 p{
@@ -57,7 +58,7 @@ width:25%;
 }
 .col-xl-4{
 width:32%;
-height:1000px;
+height:650px;
 }
 .col-xl-5{
 width:41.66%;
@@ -112,7 +113,8 @@ width:41.66%;
 }
 .col-lg-6{
 width:48%;
-height:650px;
+height:450px;
+
 }
 .col-lg-7{
 width:58.33%;
@@ -131,6 +133,7 @@ width:91.66%;
 }
 .col-lg-12{
 width:100%;
+font-size:18px;
 }
 }
 
